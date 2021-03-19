@@ -13,7 +13,7 @@ constantly==15.1.0
 cryptography==2.7
 cssselect==1.1.0
 Django==2.2.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 hyperlink==19.0.0
 idna==2.8
 importlib-metadata==0.23
